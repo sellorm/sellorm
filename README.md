@@ -1,4 +1,11 @@
-### Hi there 👋
+### 'Ello 😷🐠🥑
+
+I'm Mark, more often known as [@sellorm](https://twitter.com/sellorm) in online spaces.
+
+I'm interested in R and Python and the infrastructure required to support enterprise level data science.
+
+I also have a bunch of random projects 😂
+
 
 <!--
 **sellorm/sellorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
