@@ -1,8 +1,8 @@
 ### Mark Sellors 😷🐠🥑
 
-Hello, I'm Mark, more often known as [@sellorm](https://twitter.com/sellorm) in online spaces.
+Hello, I'm Mark, generally to be found as [@sellorm](https://twitter.com/sellorm) in online spaces.
 
-I'm interested in technology, open-source, R and Python and the infrastructure required to support enterprise level data science.
+I'm interested in technology, open-source, R and Python and the infrastructure required to run open-source and open-data based data science.
 
 If you like R, you might be interested in my [R4Pi project](https://r4pi.org) that brings new versions of R, as well as pre-built package binaries, to the Raspberry Pi family of computers.
 
