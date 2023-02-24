@@ -1,6 +1,6 @@
 ### Mark Sellors 😷🐠🥑
 
-Hello, I'm Mark, generally to be found as [@sellorm](https://twitter.com/sellorm) in online spaces.
+Hello, I'm Mark, generally to be found as [@sellorm](https://mastodon.social/@sellorm) in online spaces.
 
 I'm interested in technology, open-source, R and Python and the infrastructure required to run open-source and open-data based data science.
 
